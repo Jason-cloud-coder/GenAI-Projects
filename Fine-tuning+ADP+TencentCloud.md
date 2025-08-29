@@ -56,7 +56,7 @@ Start a job to fine-tun the base model. The training data is stored in COS bucke
 When the fine-tunning job is completed, the new model artifact will be outputed to file system CFS.
 In Ti platform we can start a new service using the new model artifact from file system.
 
-![alt text](image-10.png)
+![alt text](image-3.png)
 
 
 # Step4 Compare the performance of different models
